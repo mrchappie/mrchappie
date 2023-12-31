@@ -46,6 +46,6 @@ How to reach me:
   </a>
   </li>
   
-  
+  <li>Email: boscu20@gmail.com</li>
 </ul>
 </div>
