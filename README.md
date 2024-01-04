@@ -41,7 +41,7 @@ How to reach me:
   </a>
   </li>
   <li>
-    <a href="https://main--project-chappie.netlify.app/" target="_blank" ">
+    <a href="https://alexandruboscu.ro/" target="_blank" ">
   Portfolio
   </a>
   </li>
