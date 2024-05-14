@@ -36,6 +36,11 @@ How to reach me:
 
 <ul align="left">
   <li>
+    <a href="https://mrchappie.github.io/curriculum-vitae/" target="_blank" ">
+  Digital CV
+  </a>
+  </li>
+  <li>
     <a href="https://www.linkedin.com/in/al3xboscu/" target="_blank" ">
    Linkedin
   </a>
@@ -45,7 +50,6 @@ How to reach me:
   Portfolio
   </a>
   </li>
-  
   <li>Email: boscu20@gmail.com</li>
 </ul>
 </div>
