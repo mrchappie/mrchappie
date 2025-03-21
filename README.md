@@ -1,5 +1,5 @@
 <div align="left">
-<h1 align="center">Hi 👋! My name is Alexandru, but you can call me Alex. I'm a 25-year-old web developer from Romania. It all started as a hobby; all I wanted was to create a website for myself where I could list all the movies I've watched.</h2>
+<h1 align="center">Hi 👋! My name is Alexandru, but you can call me Alex. I'm a <script>new Date().getFullYear() - 1999<script/>-year-old web developer from Romania. It all started as a hobby; all I wanted was to create a website for myself where I could list all the movies I've watched.</h2>
 
 
 <div align="center">
